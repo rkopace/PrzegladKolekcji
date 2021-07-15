@@ -22,8 +22,6 @@ System.out.println("\n----Inny sposob ---- \n");
 		//inny sposob
 		for(String i: list)
 			System.out.println(i);
-		
-
 	}
 
 }
